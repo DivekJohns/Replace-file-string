@@ -1,0 +1,24 @@
+x=func()
+"Step 1", "john weslee"
+
+x=func()
+"Step 2", "divek"
+
+
+x=func()
+"Step 3", "madhu"
+
+
+x=func()
+"Step 4", "dushy"
+
+x=func()
+"Step 5", "lucky"
+
+x=func()
+"Step 6", "bagavan"
+
+
+
+
+
